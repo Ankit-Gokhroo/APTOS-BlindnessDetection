@@ -9,3 +9,6 @@ Millions of people suffer from diabetic retinopathy, the leading cause of blindn
  The Sample of Image of eye looks like:
  ![p2](https://user-images.githubusercontent.com/43709483/64079785-730ad400-cd09-11e9-96d7-01146a88bbf7.png)
 
+Frequency of each class of disease:
+![p1](https://user-images.githubusercontent.com/43709483/64079805-b2d1bb80-cd09-11e9-913c-4b6e2721e874.png)
+
