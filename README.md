@@ -7,4 +7,5 @@ Millions of people suffer from diabetic retinopathy, the leading cause of blindn
  
  These models may be used to detect other sorts of diseases in the future, like glaucoma and macular degeneration.
  
- 
+ ![p2](https://user-images.githubusercontent.com/43709483/64079785-730ad400-cd09-11e9-96d7-01146a88bbf7.png)
+
